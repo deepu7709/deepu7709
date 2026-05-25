@@ -2,12 +2,12 @@
 
 <p align="center">
 <img src="ai.png" width="120"/>
-<img src="ambassador.png" width="120"/>
 <img src="contributor.png" width="120"/>
 <img src="gssoc-badge-first_steps.png" width="120"/>
 <img src="gssoc-badge-profile_complete.png" width="120"/>
 <img src="gssoc-badge-role_ambassador.png" width="120"/>
 <img src="gssoc-badge-role_contributor.png" width="120"/>
+<img src="ambassador.png" width="120"/>
 </p>
 
 <!--
