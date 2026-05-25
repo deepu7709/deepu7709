@@ -1,4 +1,12 @@
-## Hi there 👋
+# My Badges 🏅
+
+![Badge 1](ai.png)
+![Badge 2](ambassador.png)
+![Badge 3](contributor.png)
+![Badge 4](gssoc-badge-first_steps.png)
+![Badge 5](gssoc-badge-profile_complete.png)
+![Badge 6](gssoc-badge-role_ambassador.png)
+![Badge 7](gssoc-badge-role_contributor.png)
 
 <!--
 **deepu7709/deepu7709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
